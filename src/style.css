@@ -38,7 +38,6 @@ html.lenis {
   text-transform: capitalize;
   scrollbar-width: none; /* Thin scrollbar */
   scrollbar-color: rgba(0, 0, 0, 0.7) transparent;
-  cursor: none;
 }
 
 button {
